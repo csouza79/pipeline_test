@@ -5,7 +5,7 @@ This repo gives you a **minimal but production-shaped** Java 17 app with **both*
 - **GitLab CI** pipeline (`.gitlab-ci.yml`)
 - Dockerized build & runtime
 
-## Quickstart
+## Quickstart - Claudio Souza
 
 ```bash
 # Run locally
