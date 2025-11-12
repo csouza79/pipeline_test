@@ -6,6 +6,6 @@ public class App {
     }
 
     public static String hello() {
-        return "Hello, World!";
+        return "Hello, Claudio Souza!";
     }
 }
