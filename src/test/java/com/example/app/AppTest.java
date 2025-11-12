@@ -7,6 +7,6 @@ public class AppTest {
 
     @Test
     public void shouldReturnHelloWorld() {
-        assertEquals("Hello, World!", App.hello());
+        assertEquals("Hello, Claudio Souza!", App.hello());
     }
 }
